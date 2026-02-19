@@ -5,11 +5,7 @@ class qu1{
 for (int i= 'a'-'a'; i<'l'-'a'; i++ ){
             System.out.print(i+ " ");
         }
-
-        
-        
-
-        
+   
        
     }
 }
